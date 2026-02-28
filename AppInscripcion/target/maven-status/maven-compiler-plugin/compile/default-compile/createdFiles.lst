@@ -1,0 +1,8 @@
+MVC\ControladorInscripcion.class
+Contratos\IModeloInscripcion.class
+MVC\ModeloInscripcion.class
+Contratos\IVista.class
+Entidades\Curso.class
+MVC\PantallaInscripcion.class
+org\itson\appinscripcion\InscripcionApp.class
+Entidades\CatalogoCursos.class
